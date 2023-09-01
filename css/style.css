@@ -1,0 +1,21 @@
+
+.cuadradito{
+    text-align: center;
+    border: 8px ridge burlywood;
+    background-color: whitesmoke;
+    text-decoration: underline;
+    font-family: 'Rubik Iso', cursive;
+    color: rgb(151, 24, 24);
+    height: 100%;
+}
+
+.circulito{
+    text-align: center;
+    border: 8px dotted burlywood;
+    background-color:cornsilk;
+    font-family: 'Dancing Script', cursive;
+    color: rgb(151, 24, 24);
+    border-radius: 100%;
+    height: 100%;
+    position:relative;
+}
